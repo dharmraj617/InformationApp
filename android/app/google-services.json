@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724496570081",
+    "project_id": "flash-chat-1f142",
+    "storage_bucket": "flash-chat-1f142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724496570081:android:4e4a83cab562245ee949a0",
+        "android_client_info": {
+          "package_name": "com.dharmrajPatil.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd1s3NcpCCid0_nktk9cUcoExSuZNJlds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
